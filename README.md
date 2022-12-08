@@ -2,9 +2,14 @@
  
 ## Description
  challenge-02 is our first homework assignment in wich we are working on bettering the **HTML** and **CSS** of the marketing company **Horiseon** to help the flow of the code and help it to also be more intelligible.
+<<<<<<< HEAD
 <!-- blank line -->
  ![](.assets/images/Horiseon.png)
  
+=======
+   <!-- blank line -->
+   [Horiseon](assets/images/Horiseon.png)
+>>>>>>> 7e1ff59 (readme image update)
  ## Live Website Link
  [Horiseon live webpage](https://moraadrian510.github.io/challenge-02/)
  
